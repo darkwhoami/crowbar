@@ -1,5 +1,4 @@
-#Code by DARK WHOAMI
-#telegram:https://t.me/ExploLand
+#re-coded by 1337rce
 from colorama import init
 import os
 import sys
